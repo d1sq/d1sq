@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @d1sq
-- 👀 I’m interested in living my life
-- 🌱 I’m currently learning web-dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript frameworks like React or Angular
+- 🌱 I’m currently learning frontend-development
+- 📫 How to reach me tg @re_dev
 
 <!---
 d1sq/d1sq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
