@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d1sq
-- 👀 I’m interested in JavaScript frameworks like React or Angular
-- 🌱 I’m currently learning frontend-development
+- 👀 I’m interested in Typescript frameworks like Angular or NestJs
+- 🌱 I’m working as frontend-developer
 - 📫 How to reach me tg @re_dev
 
 <!---
